@@ -1,2 +1,2 @@
-# simon-game
-Simple Online Simon Game made using JavaScript
+# Simon Game
+Simple Online Simon Game made using JavaScript/jQuery.
